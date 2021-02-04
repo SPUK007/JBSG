@@ -1,4 +1,4 @@
-com/examples/cucumber/MyStepDefs.java
- com.examples.cucumber.MyStepDefs
 com/examples/cucumber/RunCucumberTest.java
  com.examples.cucumber.RunCucumberTest
+com/examples/cucumber/MyStepDefs.java
+ com.examples.cucumber.MyStepDefs
